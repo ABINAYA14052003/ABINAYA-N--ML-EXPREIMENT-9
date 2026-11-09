@@ -1,6 +1,4 @@
-### DATE : 3/11/2026
-
-
+### Neural Network (Keras) on non-linear toy data (make_moons) 
 
 
 
